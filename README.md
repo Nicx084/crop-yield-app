@@ -7,7 +7,7 @@ Crop yield prediction web app using LightGBM and Streamlit
 This project is an AI-powered system designed to predict crop yield using environmental and soil data. It integrates machine learning, data transformation, and interactive visualization to support smarter agricultural decision-making.
 
 The system analyzes factors such as rainfall, temperature, soil nutrients, and seasonal patterns to estimate crop productivity and uncover meaningful insights.
-## 🎯 Objectives
+## Objectives
 * Predict crop yield using machine learning (LightGBM model)
 * Analyze the impact of environmental and soil factors
 * Build an interactive application for real-time predictions
